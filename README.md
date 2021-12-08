@@ -7,7 +7,7 @@ Test Dataset: 5 additional Line-scan images without fire boundaries.
 
 ### 1) Visualizing our data
 
-<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan1.png" width="500">
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan1.png" width="420">
 
 
 
