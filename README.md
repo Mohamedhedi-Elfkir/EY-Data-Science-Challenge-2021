@@ -11,9 +11,12 @@ a) Exampe of a linescan image
 
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan1.png" width="420">
 
-b) Example of a matched polygon and its linescan image
+b) Example of matched polygons on the linescan image
 
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_polygon.png" width="420">
 
+b) Example of a polygon mask
+
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_mask.png" width="420">
 
 
