@@ -35,7 +35,7 @@ a) Cluster one
 
 b) Cluster two
 
-<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/22.jpg" width="800">
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/22.png" width="800">
 
 b) Cluster three
 
