@@ -17,6 +17,6 @@ b) Example of matched polygons on the linescan image
 
 b) Example of a polygon mask
 
-<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_mask.png" width="420">
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_mask.png" width="700">
 
 
