@@ -8,6 +8,7 @@ Test Dataset: 5 additional Line-scan images without fire boundaries.
 ### 1) Visualizing Raw Data
 a) Exampe of a linescan image
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan1.png" width="420">
+
 b) Example of a matched polygon and its linescan image
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_polygon.png" width="420">
 
