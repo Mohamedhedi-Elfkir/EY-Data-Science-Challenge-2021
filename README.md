@@ -25,7 +25,7 @@ b) Example of polygon masks by image processing techniques
 
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/linescan_mask.png" width="700">
 
-### Satellite Imagery
+### 4) Satellite Imagery
 
 We extracted satellite imagery (from Sentinel 2a & Sentinel 2b) for the linescan datasets by matching the metadata. The range of data acquired from satellite images was standardized from 0-3000 to 0-1 for visual understanding and use in our architecture. Based on visual perception, we clustered these satellite images into 3 clusters, each cluster containing similar images. 
 
@@ -41,8 +41,6 @@ b) Cluster three
 
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/3.jpg" width="700">
 
-### Satellite Imagery
-
-Our approach was to develop a deeper U-Net architecture for this segmentation problem, but with a data driven approach. Satellite imagery could be divided into three simple classes using visual explanaitions
+Our final approach was to develop a deeper U-Net (1024 dimensions) architecture using the dice loss function. We trained our Deep U-net model on all three clusters seperately, where, during training each cluster was getting augmented and then fed to the corresponding model. 
 
 
