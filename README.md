@@ -41,6 +41,6 @@ b) Cluster three
 
 <img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/3.jpg" width="700">
 
-Our final approach was to develop a deeper U-Net (1024 dimensions) architecture using the dice loss function. We trained our Deep U-net model on all three clusters seperately, where, during training each cluster was getting augmented and then fed to the corresponding model. 
+Our final approach was to develop a deeper U-Net (1024 dimensions) architecture using the dice loss function. We trained our Deep U-net model on all three clusters seperately, where, during training each cluster was getting augmented and then fed to the corresponding model. We finally achieved an accuracy of 74% and were ranked 20 worldwide!
 
 
