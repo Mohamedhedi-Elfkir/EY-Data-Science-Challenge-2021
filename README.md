@@ -31,11 +31,11 @@ We extracted satellite imagery (from Sentinel 2a & Sentinel 2b) for the linescan
 
 a) Cluster one
 
-<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/1.jpeg" width="1000">
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/1.jpeg" width="800">
 
 b) Cluster two
 
-<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/2.jpg" width="1000">
+<img src="https://github.com/okayteakay/EY-Data-Science-Challenge-2021/blob/main/images/22.jpg" width="800">
 
 b) Cluster three
 
